@@ -46,4 +46,4 @@ This program has a lot of great potential and my future plans for this project i
 
 ## V. License Information:
 
-The following [document](./LICENSE) shows licensing information from MIT about the program.
+The following [document](./LICENSE) shows licensing information from MIT about the source code of the program.
