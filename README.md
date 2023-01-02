@@ -40,10 +40,10 @@ https://user-images.githubusercontent.com/88525094/208303936-4fc4509a-b9b4-46eb-
 
 Make sure also that the ```pacmen.js``` file is in the same directory of the ```index.html``` file for the program to work.
 
-### III.A. Roadmap for future improvements:
+## IV. Roadmap for future improvements:
 
 This program has a lot of great potential and my future plans for this project is to add more features to enhance the program. Such as making the PacMan object resize its shape once it bounces off the wall to make it look like its getting "squished". Or even make the PacMan move its mouth open and close as it moves across the screen just like the classic game.
 
-### III.B. License Information:
+## V. License Information:
 
 The following [document](./LICENSE) shows licensing information from MIT about the program.
