@@ -38,6 +38,10 @@ Select the ```Add PacMan``` button to create a PacMan Object, then select the ``
 
 
 
+
+            PacMen_Exercise.mp4
+          
+
 Make sure also that the ```pacmen.js``` file is in the same directory of the ```index.html``` file for the program to work.
 
 ### III.A. Roadmap of future improvements:
