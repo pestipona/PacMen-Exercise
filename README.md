@@ -36,7 +36,7 @@ After **cloning the repository** navigate to the **directory location** of the f
 
 Select the ```Add PacMan``` button to create a PacMan Object, then select the ```Start Game``` button to make the PacMan object move. You can add as many PacMan objects you want just by clicking on the ```Add PackMan``` button many times and see all the PacMen objects move as shown in the following video.
 
-          
+https://user-images.githubusercontent.com/88525094/208303936-4fc4509a-b9b4-46eb-b387-d113cf36eed9.mp4          
 
 Make sure also that the ```pacmen.js``` file is in the same directory of the ```index.html``` file for the program to work.
 
