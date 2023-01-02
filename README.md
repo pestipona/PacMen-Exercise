@@ -34,7 +34,7 @@ The next steps to **clone the repository** would depend on the local machine's *
 
 After **cloning the repository** navigate to the **directory location** of the files for the project. Look for the ```index.html``` file which is the HTML file of the program. Open any web browser such as ```Chrome``` or ```Firefox``` and drag and drop the ```index.html``` file into the browser. This initializes and runs the program.
 
-Select the ```Add PacMan``` button to create a PacMan Object, then select the ```Start Game``` button to make the PacMan object move. You can add as many PacMan objects you want just by clicking on the ```Add PackMan``` button many times and see all the PacMen objects move as shown in the following video.
+Select the ```Add PacMan``` button to create a PacMan Object, then select the ```Start Game``` button to make the PacMan object move. You can add as many PacMan objects you want just by clicking on the ```Add PackMan``` button many times and see all the PacMen objects move as shown in the following video. To close the program just simply close the web browser running the application.
 
 https://user-images.githubusercontent.com/88525094/208303936-4fc4509a-b9b4-46eb-b387-d113cf36eed9.mp4          
 
