@@ -32,3 +32,16 @@ The next steps to **clone the repository** would depend on the local machine's *
 
 [Cloning a repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository?platform=linux)
 
+After **cloning the repository** navigate to the **directory location** of the files for the project. Look for the ```index.html``` file which is the HTML file of the program. Open any web browser such as ```Chrome``` or ```Firefox``` and drag and drop the ```index.html``` file into the browser. This initializes and runs the program.
+
+Select the ```Add PacMan``` button to create a PacMan Object, then select the ```Start Game``` button to make the PacMan object move. You can add as many PacMan objects you want just by clicking on the ```Add PackMan``` button many times and see all the PacMen objects move as shown in the following video.
+
+Make sure also that the ```pacmen.js``` file is in the same directory of the ```index.html``` file for the program to work.
+
+### III.A. Roadmap of future improvements:
+
+This program has a lot of great potential and my future plans for this project is to add more features to enhance the program. Such as making the PacMan object resize its shape once it bounces off the wall to make it look like its getting "squished". Or even make the PacMan move its mouth open and close as it moves across the screen just like the classic game.
+
+### III.B.License Information:
+
+The following [document](./LICENSE) shows licensing information about the program.
