@@ -44,6 +44,8 @@ Make sure also that the ```pacmen.js``` file is in the same directory of the ```
 
 This program has a lot of great potential and my future plans for this project is to add more features to enhance the program. Such as making the PacMan object resize its shape once it bounces off the wall to make it look like its getting "squished". Or even make the PacMan move its mouth open and close as it moves across the screen just like the classic game.
 
+I'm also thinking of adding some audio to make the graphics more interesting.
+
 ## V. License Information:
 
-The following [document](./LICENSE) shows licensing information from MIT about the source code of the program.
+The following [document](./LICENSE) shows licensing information from MIT about some portions of the source code of the program.
