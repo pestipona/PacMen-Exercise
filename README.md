@@ -22,13 +22,11 @@ As you can see **both methods** can be used in this program which would give the
 
 ## III. How to Run:
 
-The first step would be to **clone the repository** to your local machine by going to the **Project's ReadMe Page** and selecting ```<> Code``` and copy the **project URL** which is the following.
+The first step would be to fork the repository to your own GitHub account.
 
-```text
- https://github.com/pestipona/MIT-MOD4.5-PacMan-Coding-Assignment.git
-```
+The next step would be to **clone the repository** to your local machine by going to the **Project's ReadMe Page** and selecting ```<> Code``` and copy the **project URL**.
 
-The next steps to **clone the repository** would depend on the local machine's **Operating System (OS)** whether it be ```Windows```, ```Mac```, or ```Linux```. Some of the steps or commands may vary but there are some similarities. Here is an overall guide based on an article posted in GitHub Docs.
+Cloning your own repository would depend on your local machine's **Operating System (OS)** whether it be ```Windows```, ```Mac```, or ```Linux```. Some of the steps or commands may vary but there are some similarities. Here is an overall guide based on an article posted in GitHub Docs.
 
 [Cloning a repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository?platform=linux)
 
