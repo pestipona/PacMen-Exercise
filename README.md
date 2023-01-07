@@ -1,6 +1,6 @@
 # PacMen Exercise
 
-![](images/PacMan1.png)
+![](images/pacman1.png)
 
 ## I. Project Description:
 
